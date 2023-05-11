@@ -1,4 +1,8 @@
 # Treasure-Hunter
+Language used: Python 3.8
+File to launch game: Main.py
+Library used: pygame
+
 Game about a man, who want to become rich, and went on the mining site to try his luck.
 
 This game is an arcade game, where you need to mine deeper for treasures.
